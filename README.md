@@ -59,21 +59,13 @@ src/main
 ## Web Endpoint
 
 GET /games - 게임 목록 조회
-
 GET /games/new - 게임 등록 화면
-
 POST /games - 게임 등록
-
 POST /api/games - 게임 등록
-
 GET /api/games - 전체 조회
-
 GET /api/games/{id} - 게임 조회
-
 PUT /api/games/{id} - 게임 수정
-
 DELETE /api/games/{id} - 게임 삭제
-
 GET /api/games/genre/{genre} - 장르별 조회
 
 ## Run
