@@ -7,7 +7,7 @@ Spring Boot와 Thymeleaf를 이용해서 Game CRUD Web UI를 만들었다.
 ## Deploy
 
 Render URL
-
+https://assign06-c01-22400401.onrender.com/games
 
 ## Project Structure
 
